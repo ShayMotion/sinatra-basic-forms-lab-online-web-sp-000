@@ -10,4 +10,3 @@ class Puppies
   
     @@all >> self
 end
-end
